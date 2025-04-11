@@ -1,1 +1,3 @@
-# examengrasun_leonid
+Biletul №11
+Creați un repozitoriu nou pe GitHub, în cadrul organizației PAPP2141 cu numele ExamenNume_Prenume. Clonați repozitoriul pe calculatorul local. În repozitoriul local adăugați un fișier „README.md” cu conținutul numărul biletului și descrierea proiectului, adăugați un fișier .gitignore, care va ignora încărcarea tuturor fișierelor cu extensia „jpeg” și „png” și directoriul „dist”.
+Creați ramura „Staging” și adăugați în ea structura unui proiect Angular: directoriile – app, assets și environments, cu fișiere corespunzătoare și două componente – home și about, legate cu rute în fișierul app-routing.module.ts. Faceți commit-uri periodice pentru fiecare creare și adăugare de fișier și directoriu, utilizând un mesaj clar și precis pentru fiecare commit. După finalizare, împingeți ramura „Staging” pe GitHub. Concatenați ramura „Staging” cu ramura principală „main” sau „master”, folosind linia de comandă sau terminalul Git.
